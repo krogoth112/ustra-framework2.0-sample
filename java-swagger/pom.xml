@@ -5,7 +5,7 @@
 	<groupId>com.gsitm.ustra.java</groupId>
 	<artifactId>java-code-swagger</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name><java-code-swagge></java-code-swagge></name>
+	<name><java-code-swagge/></name>
 	<description>Tutorial for U.STRA Framework, JAVA - Configure Code Swagger</description>
 	
 	<properties>
@@ -17,7 +17,7 @@
 		<ustra.version>2.0.51.129-SNAPSHOT</ustra.version>
 		<spring-boot.version>2.2.5.RELEASE</spring-boot.version>
 		<log4j2.version>2.17.1</log4j2.version>
-		<logback.version>1.2.9</logback.version>
+		<logback.version>1.5.13</logback.version>
 	</properties>
 
 	<repositories>
